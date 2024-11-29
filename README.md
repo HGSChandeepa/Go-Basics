@@ -22,6 +22,6 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ## 🌟 Let's Connect
-Follow for updates: [Your LinkedIn/Twitter/Website Link]
+Follow for updates: [https://main.adomicarts.com]
 
 Happy Coding! 🎉
